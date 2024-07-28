@@ -9,7 +9,7 @@ I'm a passionate and enthusiastic new coder with a keen interest in web developm
 - 🌱 I’m currently learning **React** and **Node.js**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, C++, and XAMPP**
 - 📫 How to reach me: [hmjihad01911@gmail.com](mailto:hmjihad01911@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and exploring new tech trends!
+- ⚡ Fun fact: I love playing Chess and exploring new tech trends!
 
 ---
 
@@ -28,15 +28,6 @@ As a great learner, I'm always excited to dive into new challenges and expand my
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-mdjihadhowlader-181717?style=for-the-badge&logo=github)](https://github.com/HM-Jihad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdjihadhowlader-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hm-jihad-777523285)
-
----
-
-## 🛠️ Projects
-Here are some of the projects I've been working on:
-
-- **Project 1:** A brief description of your project.
-- **Project 2:** A brief description of your project.
-- **Project 3:** A brief description of your project.
 
 ---
 
